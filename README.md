@@ -53,7 +53,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 3. What are the peak Claims periods?
 
 #### Data Analysis
-Include some interesting code/features worked with
+Included some interesting code/features worked with CUBE MDX query.
 
 ```sql
 
