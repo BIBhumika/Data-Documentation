@@ -86,6 +86,6 @@ Focus on expanding and promoting products in Category A.
 Implement a customer segmentation strategy to target low-LTV customers effectively.
 
 #### Limitations
-I had to remove all zero values from Checkamount column because they would have affected the accuracy of my conclusions from the analysis. 
+Zero values from Checkamount column had to be removed because they would have affected the accuracy of conclusions from the analysis. 
 There are still a few outliers even after the omissions but even then we can still see that there is a positive correlation to checkamount.
 
